@@ -19,11 +19,11 @@ You are going to model a garden with watering and a gardener who picks bloomed f
 
 #Lily
 
--Lily blooms by 1 bloom each time its watering.
+- Lily blooms by 1 bloom each time its watering.
 
 #Cactus
 
--Cactus blooms by 1 bloom every second watering.
+- Cactus blooms by 1 bloom every second watering.
 
 #Gardener
 - You should be able to create a gardener with providing his name.
