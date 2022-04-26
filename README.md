@@ -2,7 +2,7 @@
 
 You are going to model a garden with watering and a gardener who picks bloomed flower.
 
-#Flower
+### Flower
 
 - Flower should have a number of blooms.
 
@@ -12,25 +12,25 @@ You are going to model a garden with watering and a gardener who picks bloomed f
 
 - It has a "getStatus" which returns something like "Type of flower: Rose, Number of blooms: 3"
 
-#Rose
+### Rose
 
 - Rose blooms by 2 blooms each time its watering.
 
 
-#Lily
+### Lily
 
 - Lily blooms by 1 bloom each time its watering.
 
-#Cactus
+### Cactus
 
 - Cactus blooms by 1 bloom every second watering.
 
-#Gardener
+### Gardener
 - You should be able to create a gardener with providing his name.
 
 - It has a "canPick" method which take a flower as parametr and returns true (if flower has 3 or more blooms) otherwise it returns false.
 
-#Garden
+### Garden
 - It should have a list of flowers.
 
 - It has a "wateringAllGarden" which should watering every flower in the garden.
